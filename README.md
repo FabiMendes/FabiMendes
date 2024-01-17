@@ -1,8 +1,6 @@
 ### Olá, eu sou Fabiana Mendes 👋
 
-- 💻 Estou atualmente cursando Desenvolvimento de Sistemas
-- 😀 Estou desenvolvendo um projeto em JavaScript
-- 🖊 Estou aprendendo a desenvolver em C#
+- 💻 Estou atualmente no 2° semestre da faculdade no curso Análise Desenvolvimento de Sistemas e por aqui compartilho os meus aprendizados em cursos online e na própria instituição.
 
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabimendes&count_private=true&show_icons=true&theme=tokyonight)
