@@ -6,7 +6,8 @@
 
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabimendes&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabimendes&layout=compact&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabimendes&layout=compact&count_private=true&langs_count=5&langs_exclude_repo=github-readme-stats&theme=tokyonight)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="fabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
