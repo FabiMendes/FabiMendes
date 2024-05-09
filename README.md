@@ -3,6 +3,7 @@
 
 
 - 💻 Estou atualmente no 2° semestre da faculdade no curso Análise Desenvolvimento de Sistemas e por aqui compartilho os meus aprendizados em cursos online e na própria instituição.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF007F&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Fabiana+Mendes!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabimendes&count_private=true&show_icons=true&theme=tokyonight)
